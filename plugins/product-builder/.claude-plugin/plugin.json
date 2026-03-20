@@ -1,0 +1,5 @@
+{
+  "name": "product-builder",
+  "description": "Adds a /product-builder command that helps users set up a new project with a somewhat fixed tech stack based on their requirements.",
+  "version": "0.0.1"
+}

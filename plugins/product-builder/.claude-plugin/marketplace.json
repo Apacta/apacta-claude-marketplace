@@ -1,0 +1,13 @@
+{
+  "name": "apacta-claude-marketplace",
+  "owner": {
+    "name": "Apacta A/S"
+  },
+  "plugins": [
+    {
+      "name": "product-builder",
+      "source": "./plugins/product-builder",
+      "description": "Adds a /product-initiate command that helps users set up a new project with a somewhat fixed tech stack based on their requirements."
+    }
+  ]
+}
