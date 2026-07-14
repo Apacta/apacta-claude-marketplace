@@ -7,7 +7,7 @@
     {
       "name": "product-builder",
       "source": "./plugins/product-builder",
-      "description": "Adds a /product-initiate command that helps users set up a new project with a somewhat fixed tech stack based on their requirements."
+      "description": "Skills for building Service Hub products on shub.dk: product-initiate, product-deploy and product-status."
     }
   ]
 }
